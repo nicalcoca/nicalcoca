@@ -6,7 +6,7 @@
   para cualquier persona.
 - 💞️ Estoy interesado en coloborar con expertos en ecología y biología para mapear residuos en zonas vulnerables a impactos antropogénicos negativos para sus ecosistemas, y en
   la difusión efectiva de estos conocimientos de forma que tengan impacto en las regiones.
-- 📫 Mis contactos son: {nicalcoca@gmail.com}, {nicalcoca@protonmail.com} y {nacordobac@correo.udistrital.edu.co}
+- 📫 Para contactarme: {nicalcoca@gmail.com}, {nicalcoca@protonmail.com} y {nacordobac@correo.udistrital.edu.co}
 
 <!---
 nicalcoca/nicalcoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
